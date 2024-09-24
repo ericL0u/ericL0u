@@ -1,5 +1,9 @@
 # 💻 About Me:
-🌱 I’m currently a 3rd year student studying Computer Engineering at the University of Toronto<br>🔭 I’m currently working on an backend API that generates and secures API keys<br>👯 I’m looking to collaborate on any cool project!<br>⚡ Fun fact I think I am funny :)
+🌱 I’m currently a 3rd year student studying Computer Engineering at the University of Toronto<br>🔭 I’m currently working on an backend API that generates and secures API keys<br>
+Working on improving responsiveness of my personal website<br>
+Designing my react header<br>
+Learning React Native<br>
+👯 I’m looking to collaborate on any cool project!<br>⚡ Fun fact I think I am funny :)
 
 
 ## 🌐 Socials:
